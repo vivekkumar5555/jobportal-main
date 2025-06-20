@@ -79,7 +79,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any inquiries, please reach out to your.email@example.com.
+For any inquiries, please reach out to kumarvivek60403@gmail.com.
 
 Thank you for checking out the Job Portal project!
 
